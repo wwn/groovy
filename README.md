@@ -1,0 +1,1 @@
+Ich bin zwar immer noch kein Experte der Groovy Template Engines aber diese kleine fiese Falle könnte einen mal ein paar Minuten Suche kosten.
